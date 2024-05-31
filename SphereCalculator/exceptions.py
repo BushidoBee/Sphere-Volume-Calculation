@@ -1,0 +1,2 @@
+class RadiusError(Exception):
+    pass
